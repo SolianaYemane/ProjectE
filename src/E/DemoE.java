@@ -5,7 +5,7 @@ public class DemoE {
 		System.out.println("Friday");
 		System.out.println("Sprint 5 Done");  
 
-		
+		 
 	}
 
 }  
